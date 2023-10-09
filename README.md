@@ -1,1 +1,1 @@
-Project Name: Fresh-organic
+Project Name: grocery-shop
