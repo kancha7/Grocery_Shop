@@ -1,2 +1,1 @@
-# Grocery_Shop
-using reactjs
+Project Name: Fresh-organic
